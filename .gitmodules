@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/vendor/vtk"]
+	path = app/src/main/cpp/vendor/vtk
+	url = https://gitlab.kitware.com/vtk/vtk.git
